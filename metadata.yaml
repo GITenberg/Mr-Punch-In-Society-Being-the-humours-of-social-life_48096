@@ -1,0 +1,39 @@
+_repo: Mr-Punch-In-Society-Being-the-humours-of-social-life_48096
+contributor:
+  creator:
+    editor:
+      agent_name: Hammerton, John Alexander, Sir
+      aliases:
+      - Hammerton, J. A. (John Alexander)
+      - Hammerton, Sir John Alexander
+      birthdate: 1871
+      deathdate: 1949
+      gutenberg_agent_id: '4519'
+      url: http://www.gutenberg.org/2009/agents/4519
+      wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+  illustrator:
+    agent_name: Du Maurier, George
+    aliases:
+    - Maurier, George Du
+    - Du Maurier, George Louis Palmella Busson
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+description: ''
+gutenberg_issued: '2015-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'England -- Social life and customs -- Humor'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcsh 'English wit and humor'
+title: 'Mr. Punch In Society: Being the humours of social life'
+url: http://www.gutenberg.org/ebooks/48096
