@@ -1,4 +1,5 @@
 _repo: Mr-Punch-In-Society-Being-the-humours-of-social-life_48096
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -21,7 +22,12 @@ contributor:
     gutenberg_agent_id: '4661'
     url: http://www.gutenberg.org/2009/agents/4661
     wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+covers:
+- cover_type: archival
+  image_path: 48096-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48096#Mr-Punch-In-Society-Being-the-humours-of-social-life
 gutenberg_issued: '2015-01-27'
 gutenberg_type: Text
 identifiers:
